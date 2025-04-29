@@ -34,3 +34,30 @@ This project is developed as part of a student cybersecurity initiative. It simu
 
 ## 📂 Repository Structure
 
+
+---
+
+## 📄 Documentation Includes
+- ✅ **Empathy Map** – Understand user (security analyst) perspective
+---
+
+## 📬 Author
+
+**Name:** Varad Dhanaji Pawar  
+**College Project:** AI-Based Threat Intelligence Platform  
+**Email:** varad.official22@gmail.com (or your preferred ID)
+
+---
+
+## ✅ Status
+
+✔️ Ideation Phase  
+✔️ Project Design Phase  
+✔️ Project Planning Phase  
+✔️ Project Development Phase  
+✔️ Final Submission Phase – *Ready for review*
+
+---
+
+
+
