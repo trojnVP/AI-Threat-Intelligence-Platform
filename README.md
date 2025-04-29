@@ -45,7 +45,7 @@ This project is developed as part of a student cybersecurity initiative. It simu
 
 **Name:** Varad Dhanaji Pawar  
 **College Project:** AI-Based Threat Intelligence Platform  
-**Email:** varad.official22@gmail.com (or your preferred ID)
+**Email:** varadpawar9009@gmail.com 
 
 ---
 
